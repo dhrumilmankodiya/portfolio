@@ -265,25 +265,29 @@ export const experience = [
     company: "Reliance General Insurance",
     role: "Product Designer",
     period: "2023 - Present",
-    description: "Leading product design for insurance platform"
+    description: "Leading product design for insurance platform",
+    tags: ["Insurance", "Fintech", "Design Systems"]
   },
   {
     company: "Hubble Hox",
     role: "UI/UX Designer",
     period: "2022 - 2023",
-    description: "Enterprise dashboard design"
+    description: "Enterprise dashboard design",
+    tags: ["Dashboard", "Enterprise", "Data Viz"]
   },
   {
     company: "Kotak Securities",
     role: "Design Consultant",
     period: "2021 - 2022",
-    description: "Trading platform UX improvement"
+    description: "Trading platform UX improvement",
+    tags: ["Fintech", "Trading", "UX Research"]
   },
   {
     company: "Freelance",
     role: "Product Designer",
     period: "2019 - 2021",
-    description: "Various client projects"
+    description: "Various client projects",
+    tags: ["UX", "Mobile", "Web"]
   }
 ];
 
